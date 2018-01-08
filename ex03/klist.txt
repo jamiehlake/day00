@@ -1,0 +1,5 @@
+Credentials cache: API:3615
+        Principal: jlake@WETHINKCODE.CO.ZA
+
+  Issued                Expires               Principal
+Jan  8 14:40:46 2018  Jan  9 00:40:46 2018  krbtgt/WETHINKCODE.CO.ZA@WETHINKCODE.CO.ZA
